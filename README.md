@@ -1,6 +1,7 @@
 # Likefesta_front
 lafesta front end
-![최종2](https://github.com/LaFesta7/Likefesta_front/assets/132440453/8dd59bb8-5e57-43c4-9ad0-c86d199d3161)
+![logo](https://github.com/LaFesta7/Likefesta_front/assets/132440453/a8d27456-ff93-4817-b671-cfd742ce9609)
+
 
 ## 기술적 의사 결정
 
